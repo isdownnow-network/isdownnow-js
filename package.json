@@ -1,0 +1,21 @@
+{
+  "name": "isdownnow-js",
+  "version": "1.0.0",
+  "description": "Official JavaScript and Node.js telemetry client, website outage prober, and latency monitor for IsDownNow Network (https://isdownnow.com)",
+  "main": "index.js",
+  "homepage": "https://isdownnow.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isdownnow-network/isdownnow-js.git"
+  },
+  "keywords": [
+    "isdownnow",
+    "website-monitoring",
+    "outage-detector",
+    "uptime",
+    "telemetry",
+    "latency"
+  ],
+  "author": "isdownnow-network (https://isdownnow.com)",
+  "license": "MIT"
+}
